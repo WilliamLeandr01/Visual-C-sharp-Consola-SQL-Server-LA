@@ -1,0 +1,12 @@
+C:\Users\WilliamLeandro\Desktop\ejercicios .net\LiquidarAgua\LiquidarAgua\bin\Debug\LiquidarAgua.exe.config
+C:\Users\WilliamLeandro\Desktop\ejercicios .net\LiquidarAgua\LiquidarAgua\bin\Debug\LiquidarAgua.exe
+C:\Users\WilliamLeandro\Desktop\ejercicios .net\LiquidarAgua\LiquidarAgua\bin\Debug\LiquidarAgua.pdb
+C:\Users\WilliamLeandro\Desktop\ejercicios .net\LiquidarAgua\LiquidarAgua\obj\Debug\LiquidarAgua.csprojResolveAssemblyReference.cache
+C:\Users\WilliamLeandro\Desktop\ejercicios .net\LiquidarAgua\LiquidarAgua\obj\Debug\LiquidarAgua.exe
+C:\Users\WilliamLeandro\Desktop\ejercicios .net\LiquidarAgua\LiquidarAgua\obj\Debug\LiquidarAgua.pdb
+C:\Users\WilliamLeandro\Desktop\liquidar-agua-.net-consola-sqlserver\LiquidarAgua\bin\Debug\LiquidarAgua.exe.config
+C:\Users\WilliamLeandro\Desktop\liquidar-agua-.net-consola-sqlserver\LiquidarAgua\obj\Debug\LiquidarAgua.exe
+C:\Users\WilliamLeandro\Desktop\liquidar-agua-.net-consola-sqlserver\LiquidarAgua\obj\Debug\LiquidarAgua.pdb
+C:\Users\WilliamLeandro\Desktop\liquidar-agua-.net-consola-sqlserver\LiquidarAgua\obj\Debug\LiquidarAgua.csprojResolveAssemblyReference.cache
+C:\Users\WilliamLeandro\Desktop\liquidar-agua-.net-consola-sqlserver\LiquidarAgua\bin\Debug\LiquidarAgua.exe
+C:\Users\WilliamLeandro\Desktop\liquidar-agua-.net-consola-sqlserver\LiquidarAgua\bin\Debug\LiquidarAgua.pdb
