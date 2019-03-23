@@ -1,0 +1,32 @@
+
+- Nombre Base Datos = liquidarAgua
+
+- Nombre Tabla estrato = tbl_estrato
+
+- Nombre Tabla registro = tbl_registro
+
+- Tabla estrato
+
+- id_estrato 		(int)(Not Null)
+- estrato 		(varchar)(Not Null)
+- metro_cubico 		(float)(Not Null)
+- aseo 			(float)(Not Null)
+- subsidio		(float)(Not Null)
+
+
+- Tabla registro
+
+- id_registro 		(int)(Not Null)
+- registro 		(varchar)(Not Null)
+- direccion 		(Varchar)(Not Null)
+- estrato 		(Varchar)(Not Null)
+- lectura_actual 	(decimal)(Not Null)
+- lectura_anterior 	(decimal)(Not Null)
+- consumo 		(decimal)(Not Null)
+- subsidio 		(decimal)(Not Null)
+- valor_agua 		(decimal)(Not null)
+- sobrecosto 		(decimal)(Not null)
+- aseo 			(decimal)(Not null)
+- neto_pagar 		(decimal)(Not null)
+- numero_boleta 	(varchar)(Not null)
+ 
