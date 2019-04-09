@@ -7,5 +7,11 @@ Estrato 1 - Metro Cubico  $500 - Aseo $3.000 - Subsidio $4.000 | Estrato 2 - Met
 
 Se anexan algunos valores de entrada y sus respectivas salidas que debe dar el programa al momento de ingresar los datos.
 
+Registro  1000 - Direccion Calle 1 - Estrato 1 - Lectura Actual 100 - Lectura Anterior 50 - Consumo 50 - Subsidio $4.000 - Valor Agua $25.000 - Sobrecosto $0 - Aseo $3.000 - Neto a Pagar $24.000 - Numero Boleta No participa.
+
+Lo anterior controlado mediante un menú con las opciones:
+
+Opciones menu - 1. Ingresar Registro | 2. Numero de boletas entregadas | 3. Total a recibir | 4. Promedio de consumo | 5. Estrato mas repetido | 6. Generar copia de recibo | 7. Salir 
+
 
 
