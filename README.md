@@ -3,6 +3,6 @@
 
 Crear las clases y objetos necesarios para liquidar el recibo del agua el cual se cobra por metro cubico (M3), dada la siguiente tabla de condiciones:
 
+Estratos = 1, 2, 3, >3
+Metro Cubico = $500, $3.000, $4.000
 
-| ESTRATOS  | METRO CUBICO  | ASEO    | SUBSIDIO |
-|    1      | $ 500         | $ 3.000 | $ 4.000  |
